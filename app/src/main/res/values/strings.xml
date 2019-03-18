@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Siris</string>
+    <string name="api_key">nopenoapi4u</string>
+    <string name="helyek">Helyek</string>
+    <string name="hely_hozzaadasa">Hely hozzáadása</string>
+    <string name="map">Map</string>
+    <string name="keressen_itt">Keressen itt</string>
+    <string name="current_location">Current Location</string>
+    <string name="name">Név</string>
+    <string name="address">Cím</string>
+    <string name="phonenumber">Telefonszám</string>
+    <string name="website">Honlap</string>
+    <string name="pricerating">Price Rating</string>
+    <string name="jegyzet">Jegyzet</string>
+    <string name="szerkesztes">Szerkesztés</string>
+    <string name="utvonalterv">Útvonalterv</string>
+    <string name="mentes">mentés</string>
+    <string name="details">Details</string>
+    <string name="notes">Notes</string>
+</resources>
